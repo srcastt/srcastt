@@ -50,8 +50,9 @@
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://www.linkedin.com/in/mohammad-yousuf-a406a123b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yousuf/)
+
 📧 **yousuffb786@gmail.com**  
 
 ---
