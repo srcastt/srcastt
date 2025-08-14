@@ -49,9 +49,9 @@
 
 ---
 
-## 🎮 Game Mode
+## 🎮 me at my cartoon charcter
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srcastt/srcastt/main/ehad_kamil.gif" alt="Game Mode" width="600">
+  <img src="https://raw.githubusercontent.com/srcastt/srcastt/main/ehad_kamil.gif" alt="Gif" width="400">
 </p>
 
 ## 📫 Let’s Connect  
