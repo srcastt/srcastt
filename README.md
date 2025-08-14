@@ -51,21 +51,8 @@
 
 ## 🎮 Game Mode
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srcastt/srcastt/main/me.png" 
-       alt="Game Mode" 
-       width="600" 
-       style="border-radius:20px;animation: zoomInOut 4s infinite ease-in-out;">
+  <img src="https://raw.githubusercontent.com/srcastt/srcastt/main/ehad_kamil.gif" alt="Game Mode" width="600">
 </p>
-
-<!-- Animation Styling -->
-<style>
-@keyframes zoomInOut {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
-
 
 ## 📫 Let’s Connect  
 
