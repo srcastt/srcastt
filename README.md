@@ -49,15 +49,20 @@
 
 ---
 
-## 🎮 Arcade Game Mode
+## 🟡 Pac-Man Contributions
 <p align="center">
-  <img src="assets/me.png" alt="Arcade Game Screenshot" width="600" style="border-radius:20px;box-shadow:0 0 15px rgba(0,0,0,0.5);">
+  <a href="https://abozanona.github.io/pacman-contribution-graph/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Pac%E2%80%91Man%20on%20my%20contributions-FFC107?style=for-the-badge" alt="Play Pac-Man on my contributions">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Press%20Start%20🎯-Play%20Now!-brightgreen?style=for-the-badge">
-</p>
 
+## 🧱 Tetris Contributions
+<p align="center">
+  <a href="https://dev.to/debba/turn-your-github-contributions-into-a-tetris-gif-29b0" target="_blank">
+    <img src="https://img.shields.io/badge/View-Tetris%20from%20my%20contributions-6A5ACD?style=for-the-badge" alt="Tetris from my contributions">
+  </a>
+</p>
 
 ## 📫 Let’s Connect  
 
