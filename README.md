@@ -49,10 +49,22 @@
 
 ---
 
+## 🎮 Arcade Game Mode
+<p align="center">
+  <img src="assets/me.png" alt="Arcade Game Screenshot" width="600" style="border-radius:20px;box-shadow:0 0 15px rgba(0,0,0,0.5);">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Press%20Start%20🎯-Play%20Now!-brightgreen?style=for-the-badge">
+</p>
+
+
 ## 📫 Let’s Connect  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yousuf-a406a123b/)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/srcastt)
+
 
 
 📧 **yousuffb786@gmail.com**  
