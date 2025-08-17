@@ -21,6 +21,11 @@
 🖌️ Skilled in **Figma**, **Adobe XD**, & **Affinity Designer**.  
 🤖 Love working with **AI & Prompt Engineering** to craft smart solutions.  
 
+
+<p align="center">
+  <img src="linkedin-bg.png" alt="Md Yousuf Ansari Banner">
+</p>
+
 💡 *Code what you dream, dream what you code!* 🚀  
 
 ---
