@@ -1,74 +1,63 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+👋+I'm+Md+Yousuf+Ansari;Full+Stack+MERN+Developer+💻;Digital+Artist+🎨;Prompt+Engineer+🤖;Code+what+you+dream,+dream+what+you+code!+🚀">
-</p>
+<div align="center">
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-00d09c?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white">
-</p>
+# Md Yousuf Ansari
+### FRONTEND DEVELOPER
 
 ---
 
-## 🚀 About Me  
-💻 **Full Stack MERN Developer** who blends **code** & **creativity**.  
-🎨 Digital Artist in **Procreate** & **Procreate Dreams**.  
-🖌️ Skilled in **Figma**, **Adobe XD**, & **Affinity Designer**.  
-🤖 Love working with **AI & Prompt Engineering** to craft smart solutions.  
+### 👨‍💻 About Me  
+I’m a frontend developer who loves creating smooth, responsive websites that just feel right to use. I enjoy making systems work seamlessly and building interfaces that are both functional and user-friendly.
 
+I regularly share my projects on GitHub, mostly working with JavaScript, CSS, and their frameworks, while experimenting with new ideas along the way.
+
+Right now, I’m diving deeper into React, Node.js, and Express.js, and constantly exploring ways to improve my skills and build even better web experiences.
+
+---
+
+### 🛠 Skills  
+<div>
+  🔹 JavaScript (ES6+) &nbsp;|&nbsp; 
+  🔹 CSS3 (Responsive Design, Tailwind/Bootstrap) &nbsp;|&nbsp;
+  🔹 DOM Manipulation &nbsp;|&nbsp;
+  🔹 System Synchronization &nbsp;|&nbsp;
+  🔹 Figma &nbsp;|&nbsp;
+  🔹 Creative Design
+</div>
+
+---
+
+### 🎯 Interests  
+<div>
+  ✨ Coding & exploring new web technologies &nbsp;|&nbsp;
+  ✨ Building synchronous file-based systems &nbsp;|&nbsp;
+  ✨ Improving typing speed on monkeytype &nbsp;|&nbsp;
+  ✨ Sharing projects & learning daily
+</div>
+
+---
 
 <p align="center">
   <img src="linkedin-bg.png" alt="Md Yousuf Ansari Banner">
 </p>
 
-💡 *Code what you dream, dream what you code!* 🚀  
-
----
-
-## 🛠 Tech Stack  
-- **Frontend:** React.js ⚛️ | HTML5 📝 | CSS3 🎨 | JavaScript ES6+ ⚡  
-- **Backend:** Node.js 🟢 | Express.js 🚀  
-- **Database:** MongoDB 🍃  
-- **Design:** Figma 🎯 | Adobe XD 💎 | Affinity Designer 🖌️ | Procreate ✏️  
-- **Others:** Git 🛠 | Prompt Engineering 🤖  
-
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srcastt&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcastt&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+### 🔗 Connect with Me  
+
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/srcastt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yousuf-a406a123b/)  
+
+📧 **yousuf.ansari.work@gmail.com**  
 
 ---
 
-## 🎮 me at my cartoon charcter
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srcastt/srcastt/main/ehad_kamil.gif" alt="Gif" width="400">
-</p>
+⭐ *If you like my work, consider giving my repos a star!* ⭐  
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/srcastt)
-## 📫 Let’s Connect  
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yousuf-a406a123b/)
-
-
-
-
-📧 **yousuffb786@gmail.com**  
-
----
-⭐ *If you like my work, consider giving my repos a star!* ⭐
+</div>
