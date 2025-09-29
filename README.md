@@ -3,6 +3,8 @@
 # Md Yousuf Ansari
 ### FRONTEND DEVELOPER
 
+</div>
+
 ---
 
 ### 👨‍💻 About Me  
@@ -15,49 +17,41 @@ Right now, I’m diving deeper into React, Node.js, and Express.js, and constant
 ---
 
 ### 🛠 Skills  
-<div>
-  🔹 JavaScript (ES6+) &nbsp;|&nbsp; 
-  🔹 CSS3 (Responsive Design, Tailwind/Bootstrap) &nbsp;|&nbsp;
-  🔹 DOM Manipulation &nbsp;|&nbsp;
-  🔹 System Synchronization &nbsp;|&nbsp;
-  🔹 Figma &nbsp;|&nbsp;
-  🔹 Creative Design
-</div>
+🔹 JavaScript (ES6+) &nbsp;|&nbsp; 
+🔹 CSS3 (Responsive Design, Tailwind/Bootstrap) &nbsp;|&nbsp;
+🔹 DOM Manipulation &nbsp;|&nbsp;
+🔹 System Synchronization &nbsp;|&nbsp;
+🔹 Figma &nbsp;|&nbsp;
+🔹 Creative Design
 
 ---
 
 ### 🎯 Interests  
-<div>
-  ✨ Coding & exploring new web technologies &nbsp;|&nbsp;
-  ✨ Building synchronous file-based systems &nbsp;|&nbsp;
-  ✨ Improving typing speed on monkeytype &nbsp;|&nbsp;
-  ✨ Sharing projects & learning daily
+✨ Coding & exploring new web technologies &nbsp;|&nbsp;
+✨ Building synchronous file-based systems &nbsp;|&nbsp;
+✨ Improving typing speed on monkeytype &nbsp;|&nbsp;
+✨ Sharing projects & learning daily
+
+---
+
+<div align="center">
+  <img src="github-intro.png" alt="Md Yousuf Ansari Banner">
 </div>
 
 ---
 
-<p align="center">
-  <img src="github-intro.png" alt="Md Yousuf Ansari Banner">
-</p>
-
----
+<div align="center">
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcastt&layout=compact&theme=radical" height="165">
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcastt&layout=compact&theme=radical" height="165">
 
 ### 🔗 Connect with Me  
 
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/srcastt)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yousuf-a406a123b/)  
 
-📧 **yousuf.ansari.work@gmail.com**  
+📧 **yousuf.ansari.work@gmail.com**
 
----
-
-⭐ *If you like my work, consider giving my repos a star!* ⭐  
+⭐ *If you like my work, consider giving my repos a star!* ⭐
 
 </div>
