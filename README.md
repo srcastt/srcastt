@@ -37,7 +37,7 @@ Right now, I’m diving deeper into React, Node.js, and Express.js, and constant
 ---
 
 <p align="center">
-  <img src="linkedin-bg.png" alt="Md Yousuf Ansari Banner">
+  <img src="github-intro.png" alt="Md Yousuf Ansari Banner">
 </p>
 
 ---
